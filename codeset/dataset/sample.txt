@@ -1,0 +1,2 @@
+reginid, pty
+a01, 100
